@@ -1,4 +1,4 @@
-# demo
+# demo for learning git
 For demo
 
-I am adding more content form akr_test branch.
+Also add update from main
